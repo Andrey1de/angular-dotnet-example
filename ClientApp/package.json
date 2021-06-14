@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build",
+    "build": "ng build git push heroku master",
     "build:ssr": "ng run angular_dotnet_example:server:dev",
     "test": "ng test",
     "lint": "ng lint",
