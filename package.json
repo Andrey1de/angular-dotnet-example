@@ -1,0 +1,20 @@
+{
+  "name": "angular-dotnet-example",
+  "version": "1.0.0",
+  "description": "Example Project on how to run Angular app with dotnet as a backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrey1de/angular-dotnet-example.git"
+  },
+  "keywords": [],
+  "author": "Dregachev Andrey <andrey1de@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Andrey1de/angular-dotnet-example/issues"
+  },
+  "homepage": "https://github.com/Andrey1de/angular-dotnet-example#readme"
+}
